@@ -21,3 +21,11 @@ number;
 string;
 
 // Uwaga: Oczywiście chodzi o typy, które zostały przypisane w Zadaniu 1
+
+// Zadanie 3: Zmiana wartości zmiennych
+
+// 3.1. Zmień wartość zmiennej myVariable na 11.
+myVariable = 11;
+
+// 3.2. Zmień wartość zmiennej myName na "Mieszko".
+myName = "Mieszko";
