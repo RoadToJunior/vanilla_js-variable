@@ -9,3 +9,15 @@ let myVariable = 10;
 let myName = "Benedykt";
 
 // Uwaga: Obie zmienne mogą zmieniać wartości w programie, a więc nie mogą to być stałe.
+
+// Zadanie 2: Typy zmiennych
+
+// 2.1. Jaki jest typ danych przechowywany w zmiennej myVariable?
+
+number;
+
+// 2.2. Jaki jest typ danych przechowywany w zmiennej myName?
+
+string;
+
+// Uwaga: Oczywiście chodzi o typy, które zostały przypisane w Zadaniu 1
