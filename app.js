@@ -29,3 +29,13 @@ myVariable = 11;
 
 // 3.2. Zmień wartość zmiennej myName na "Mieszko".
 myName = "Mieszko";
+
+// Zadanie 4: Operacje na zmiennych
+
+// 4.1. Utwórz nową zmienną o nazwie sum i przypisz jej wartość równą sumie myVariable i 5.
+let sum = myVariable + 5;
+
+// 4.2. Utwórz zmienną o nazwie greeting i przypisz jej wartość równą konkatenacji myName i ", witaj w świecie JavaScript!".
+let greeting = myName + ", witaj w świecie Javascript!";
+
+// Uwaga: Obie zmienne nie będą już ulegały zmianie w programie.
